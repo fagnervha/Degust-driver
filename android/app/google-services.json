@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1087572610631",
+    "firebase_url": "https://degust-delivery-1fc62-default-rtdb.firebaseio.com",
+    "project_id": "degust-delivery-1fc62",
+    "storage_bucket": "degust-delivery-1fc62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087572610631:android:2db03375f072d42fb42b62",
+        "android_client_info": {
+          "package_name": "com.degustdelivery.entregador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087572610631-olo1ohoqhopr9gse3r7a3ii8rrogntli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMriBsA4G7GIN53FoalTPJ2pJqxhUf2RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087572610631-bfi4c2nlts3dk8ir4iidi8n5ke2ur6qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087572610631:android:d79a5432d9928dadb42b62",
+        "android_client_info": {
+          "package_name": "com.degustdelivery.restaurante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087572610631-olo1ohoqhopr9gse3r7a3ii8rrogntli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMriBsA4G7GIN53FoalTPJ2pJqxhUf2RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087572610631-bfi4c2nlts3dk8ir4iidi8n5ke2ur6qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087572610631:android:8c4ae2270eaec119b42b62",
+        "android_client_info": {
+          "package_name": "com.degustdelivery.usuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087572610631-olo1ohoqhopr9gse3r7a3ii8rrogntli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMriBsA4G7GIN53FoalTPJ2pJqxhUf2RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087572610631-bfi4c2nlts3dk8ir4iidi8n5ke2ur6qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
